@@ -1,5 +1,4 @@
 # AI Assistant Usage in Student Life 
-## Data Science & Machine Learning Project  
 
 This repository contains my end-to-end **data science project** exploring how students use AI assistants.  
 I performed data cleaning, exploratory data analysis, feature engineering, visualisations and built several classification models to predict outcomes like `FinalOutcome` and `UsedAgain`.
